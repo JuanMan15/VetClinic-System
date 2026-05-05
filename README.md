@@ -14,7 +14,7 @@ This application is designed to efficiently manage veterinary clinic operations,
 
 ## 🌐 Choose Your Language for Documentation
 
-Select your preferred language to view the full project documentation:
+Select your preferred language to view more detailed documentation:
 
 [![English](https://img.shields.io/badge/English-EN-blue.svg)](README.en.md)
 [![Español](https://img.shields.io/badge/Español-ES-yellow.svg)](README.es.md)
