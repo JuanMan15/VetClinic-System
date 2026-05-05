@@ -8,9 +8,13 @@
 
 ---
 
-## 🌐 Language Selection
+This application is designed to efficiently manage veterinary clinic operations, meeting the needs of administrators, employees, and others. It allows management of pets, appointments, products, among other implementations.
 
-Choose your preferred language:
+---
+
+## 🌐 Choose Your Language for Documentation
+
+Select your preferred language to view the full project documentation:
 
 [![English](https://img.shields.io/badge/English-EN-blue.svg)](README.en.md)
 [![Español](https://img.shields.io/badge/Español-ES-yellow.svg)](README.es.md)
